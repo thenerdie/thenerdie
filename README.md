@@ -1,7 +1,9 @@
 ### Hello!
 
-### RoBeats Developer, Forever
+### rbebta
 
 I'm a 17 year old game developer who is fluent in C#, Lua, and JavaScript. I also have a very small amount of experience in Python.
+
+I also make a lot of money from the game. You can't touch my levels of swog
 
 [![thenerdie's github stats](https://github-readme-stats.vercel.app/api?username=thenerdie)](https://github.com/anuraghazra/github-readme-stats)
